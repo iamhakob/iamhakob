@@ -4,5 +4,5 @@
 
 Skills: JavaScript / TypeScript / React / Node / GraphQL / NestJS / MeteorJS / Docker / AWS
 
-- 🔭 currently freelancing on Proxify
+- 🔭 currently freelancing on [Proxify](https://app.proxify.io/)
 - 📫 How to reach me: https://www.linkedin.com/in/iamhakob/
