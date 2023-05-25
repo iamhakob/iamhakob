@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Hakob
 
-![](https://user-images.githubusercontent.com/38080008/235670820-eeada227-5301-43cd-b453-813274e0226e.jpg)
+
+<img width="657" alt="Screenshot 2023-05-25 at 19 49 21" src="https://github.com/iamhakob/iamhakob/assets/38080008/56b2eb8f-3ef2-4ee1-9ef5-2ded94d5c20a">
 
 Skills: JavaScript / TypeScript / React / Node / GraphQL / NestJS / MeteorJS / Docker / AWS
 
